@@ -1,0 +1,3 @@
+The program gives us some values of powers, factorial, etc...
+
+![Capture d’écran 2026-09-15 à 09.21.24.png](../../../../var/folders/w8/clf5qzsx7lv9qqknsfk_50g40000gn/T/TemporaryItems/NSIRD_screencaptureui_ur8hqp/Capture%20d%E2%80%99%C3%A9cran%202026-09-15%20%C3%A0%2009.21.24.png)

@@ -1,2 +1,2 @@
 The program gives us some values of powers, factorial, etc...
-![Capture d’écran 2026-09-15 à 09.27.10.png](Capture%20d%E2%80%99e%CC%81cran%202026-09-15%20a%CC%80%2009.27.10.png)
+![screenshot.png](screenshot.png)
